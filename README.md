@@ -1,3 +1,3 @@
 # Feynn_Labs
 
-Datasets_link: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+Datasets_link for book recommender system: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
